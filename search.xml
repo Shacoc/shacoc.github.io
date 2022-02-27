@@ -10,6 +10,10 @@
 </ul>
 <span id="more"></span>
 
+<hr>
+<ul>
+<li>投资币种</li>
+</ul>
 <table>
 <thead>
 <tr>
@@ -21,17 +25,17 @@
 </tr>
 </thead>
 <tbody><tr>
-<td align="left">单元格</td>
-<td align="center">单元格</td>
-<td align="center">单元格</td>
-<td align="center">单元格</td>
+<td align="left">比特币</td>
+<td align="center">10%</td>
+<td align="center">BTC</td>
+<td align="center">10%</td>
 <td align="center">单元格</td>
 </tr>
 <tr>
-<td align="left">单元格</td>
-<td align="center">单元格</td>
-<td align="center">单元格</td>
-<td align="center">单元格</td>
+<td align="left">公链生态</td>
+<td align="center">60%</td>
+<td align="center">ETH</td>
+<td align="center">10%</td>
 <td align="center">单元格</td>
 </tr>
 </tbody></table>
